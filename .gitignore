@@ -1,2 +1,5 @@
 #Ignore the virtual-env
 /jupyterenv
+
+#Ignore checkpoints
+.ipynb_checkpoints/
